@@ -82,6 +82,28 @@ Detailed Breakdown for each month:
 
 ---
 
+## 📚 Free Learning Resources (Curated)
+
+### Month 1: Python & Data
+*   **Video**: [Corey Schafer's Python Tutorials](https://www.youtube.com/user/schafer5) (The Gold Standard).
+*   **Course**: [Kaggle Python Course](https://www.kaggle.com/learn/python) (Free, interactive).
+*   **Book**: "Fluent Python" (Advanced) - *Highly recommended for seniors*.
+
+### Month 2: Orchestration & Compute
+*   **Airflow**: [Marc Lamberti's Airflow Videos](https://www.youtube.com/c/MarcLamberti) (Excellent specific guides).
+*   **Spark**: [Spark by Examples](https://sparkbyexamples.com/) (Best quick reference).
+*   **Concept**: [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) (The best free bootcamp).
+
+### Month 3: Modern Data Stack
+*   **dbt**: [Official dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals) (Free certification).
+*   **Warehousing**: [Kimball Group - Data Warehouse Toolkit](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/) (The theory bible).
+
+### Month 4-6: Advanced
+*   **Streaming**: [Confluent Kafka 101](https://developer.confluent.io/get-started/) (Interactive labs).
+*   **AI/RAG**: [DeepLearning.ai - Vector Databases](https://www.deeplearning.ai/short-courses/) (Free short courses by Andrew Ng's team).
+
+---
+
 ## 🛠️ My Tech Stack
 *   **Languages**: Python (Learning), TypeScript, C#, SQL
 *   **Infrastructure**: AWS (EC2, Lightsail), Docker, Linux
