@@ -1,11 +1,11 @@
 # Month 1: The "Daily Commit" Challenge (Python for DE)
 **Goal:** 30 Days of Code. 30 Commits. Zero "Tutorial Hell".
 **Audience:** Senior Backend Dev (C#/.NET/Node) transitioning to Data.
-
 ---
 
 ## 📅 Week 1: The "Delta" (Syntax & High-Level Structures)
 **Theme**: "Stop writing C# in Python."
+**Prerequisite**:Before starting the journey make sure you must have basic knownledge of python. To brush up python syntax follow the [python cheet sheet:](https://static.realpython.com/python-cheatsheet.pdf).
 
 *   **Day 1: List Comprehensions (The "LINQ" of Python)**
     *   **Resource**: [Real Python: List Comprehensions](https://realpython.com/list-comprehension-python/)
@@ -177,3 +177,4 @@
         4. Save as Parquet to MinIO.
         5. Log everything.
     *   **Goal**: Post this repo link to LinkedIn.
+
